@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Web Master With Jean
 
 You can use the [editor on GitHub](https://github.com/py-tony/web-master-jean/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
